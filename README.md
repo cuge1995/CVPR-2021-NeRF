@@ -20,3 +20,5 @@ CVPR 2021 papers focus on NeRF
 
 
 - D-NeRF: Neural Radiance Fields for Dynamic Scenes
+
+- STaR: Self-supervised Tracking and Reconstruction of Rigid Objects in Motion with Neural Rendering
